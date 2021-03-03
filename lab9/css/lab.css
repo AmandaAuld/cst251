@@ -1,5 +1,5 @@
 body {
-  background-color: #9375ca;
+  background-image: url("../img/background.jpg");
   border-radius: 5px;
   margin-top: 20px;
   margin-bottom: 30px;
@@ -22,6 +22,8 @@ a {
   padding: 1em 2em;
   background: #362b4a;
   display: inline-block;
+  margin-top: 5px;
+  margin-left: 7px;
 }
 
 a:hover {
@@ -60,6 +62,7 @@ width: auto;
 padding: 10px;
 position: relative;
 top: 5px;
+margin-left: 25px;
 }
 
 .gallery img {
