@@ -72,17 +72,7 @@ margin-left: 25px;
   border-top: solid 2px #362b4a;
   clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
 }
+
 img:hover {
   transform: scale(1.1);
-}
-
-p.result {
-  color: black;
-  font-weight: bold;
-
-}
-
-.main h2 {
-  text-decoration: underline;
-  text-shadow: 2px 2px 5px #607d8b;
 }
