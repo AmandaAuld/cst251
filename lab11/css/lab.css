@@ -1,0 +1,98 @@
+body {
+  background-color: #bdc9ff;
+}
+
+#content {
+  width: 60%;
+  margin: 20px;
+  padding: 10px;
+  border: solid 3px #fffbb0;
+  background-color: #8d94b3;
+  color: #fffbb0;
+  height: 1140px;
+}
+
+#sidebar {
+  display: inline-block;
+  float: right;
+  margin: 20px;
+  padding: 10px;
+  width: 25%;
+  min-width: 300px;
+  border: solid 3px #fffbb0;
+  color: #fffbb0;
+  background-color: #8d94b3;
+}
+
+h2 {
+  color: #474A59;
+}
+/*Nav Bar*/
+nav {
+  position: sticky;
+  top: 0;
+  background-color: #FFFBB0;
+  color: #474A59;
+  border: solid 10px #474A59;
+  height: 100px;
+}
+
+nav a {
+  color: #474A59;
+  text-decoration: none;
+  height: 20px;
+}
+/*Images*/
+.images {
+  max-height: 150px;
+  width:auto;
+}
+
+img {
+  height: 150px;
+  width:auto;
+}
+/*Tattoo Artist Instagram*/
+#artist {
+  position: relative;
+  left: 135px;
+  bottom: 40px;
+}
+
+#artist a {
+  color:  #fffbb0;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#artist a:hover {
+  text-decoration: underline;
+}
+/*Buttons*/
+#css {
+  position: relative;
+  top: 15px;
+  left: 75px;
+  background-color: #8d94b3;
+  display: inline-block;
+  height: 35px;
+  padding: 5px;
+}
+
+#css:hover {
+  background-color: #979EBF;
+}
+
+#home {
+  position: relative;
+  top: 15px;
+  left: 50px;
+  background-color: #8d94b3;
+  display: inline-block;
+  height: 35px;
+  padding: 5px;
+}
+
+#home:hover {
+  background-color: #979EBF;
+}
