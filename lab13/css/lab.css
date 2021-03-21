@@ -22,7 +22,7 @@ a {
   padding: 1em 2em;
   background: #362b4a;
   display: inline-block;
-  margin-top: 5px;
+  margin-top: 20px;
   margin-left: 7px;
 }
 
@@ -35,6 +35,9 @@ iframe {
   height: 500px;
   resize: both;
   overflow: hidden;
+  margin-top: 10px;
+  margin-left: 120px;
+  margin-bottom: 20px;
 }
 
 #content {
@@ -45,7 +48,7 @@ iframe {
   width: 95%;
   height: auto;
   background-color: #c2b9d2;
-  height: 1000px;
+  height: 1200px;
   margin-top: 15px;
   margin-right: 10px;
   margin-left: 5px;
