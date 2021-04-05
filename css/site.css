@@ -1,0 +1,28 @@
+body {
+  background-color: #669AAD;
+  font-family: sans-serif;
+  color: white;
+  height: 800px;
+}
+
+h1 {
+  color: #2F5461;
+}
+
+#content {
+  text-align: center;
+}
+
+a {
+  background-color: #2F5461;
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+
+}
+
+#lab2, #lab3, #lab4, #lab5, #lab6, #lab7, #Lab8, #lab9,
+#lab10, #lab11, #lab12, #Lab13, #Lab14, #lab15 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
