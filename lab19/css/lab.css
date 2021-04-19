@@ -1,0 +1,25 @@
+
+header, nav, article, aside, div#pics {
+    border: solid 2px #5D7A9E;
+    background-color: #96BCEB;
+    margin: 20px;
+    padding: 20px;
+  }
+
+.container-fluid {
+  background-color: #EBBDA1;
+}
+
+img {
+  height: 200px;
+  width: auto;
+  margin: 10px;
+}
+
+#pics {
+  width: 300px;
+}
+
+nav {
+  margin: 0px;
+}
